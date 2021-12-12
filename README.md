@@ -19,3 +19,7 @@
 * Module 3: [Source Code](https://github.com/rejonehridoy/coursera-html-css-javascript/tree/main/module3-solution) || [Output](https://rejonehridoy.github.io/coursera-html-css-javascript/module3-solution/)
 * Module 4: [Source Code](https://github.com/rejonehridoy/coursera-html-css-javascript/tree/main/module4-solution) || [Output](https://rejonehridoy.github.io/coursera-html-css-javascript/module4-solution/)
 * Module 5: [Source Code](https://github.com/rejonehridoy/coursera-html-css-javascript/tree/main/module5-solution) || [Output](https://rejonehridoy.github.io/coursera-html-css-javascript/module5-solution/)
+
+
+## Certificate
+[Click Here](https://coursera.org/share/f016717b8f420edcca1b2f1fc4986cf0) to see the certificate
